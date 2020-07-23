@@ -12,7 +12,7 @@
 ---
 ## 📚	Try My Hand In :
 
-### C       | C++     | JAVA           | PYTHON | basic C#
+### ``` C ```| ```C++```| ```JAVA```|```PYTHON```| ```basic C#```
 ### HTML    | JS      | CSS            | JQUERY | BS4
 ### ANGULAR | NODEJS  | MONGODB        | basic RUBY
 ### DART    | FLUTTER | ANDROID STUDIO | MYSQL
