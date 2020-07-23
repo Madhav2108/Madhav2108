@@ -31,7 +31,7 @@
 
 ## TIME FOR STATS :
 
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav2108&show_icons=true&theme=radical)]
+![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav2108&show_icons=true&theme=radical)
 
 <hr>
 
