@@ -30,5 +30,5 @@
 ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav2108&show_icons=true&theme=radical)
 
 ---
-## __THANKYOU__  <img  src="https://visitor-badge.laobi.icu/badge?page_id=madhav2108.visitor-badge">
+## __THANKYOU__  
 
