@@ -2,7 +2,7 @@
 ## I am __Madhav Narayan__
 ---
 ###  :octocat: I’m currently _working_ on :
-#### __Web Development | Python  | Mean Stack__
+#### __Web Development | Python  | MERN Stack__
 ---
 ###  :electron: I’m currently _learning_ :
 #### __Nodejs | pandas | GUI-Python__
