@@ -5,7 +5,7 @@
 #### __Web Development | Python  | MERN Stack__
 ---
 ###  :electron: I’m currently _learning_ :
-#### __Nodejs | pandas | GUI-Python__
+#### __Nodejs | DS | GUI-Python__
 ---
 ### 🤔 I’m looking to _develop_ a :
 #### __Portfolio |  Minigames With Python__
