@@ -23,12 +23,7 @@
 
 [<img src="https://sourcerer.io/icons/logo-sharing.svg" width="100%" alt="Sourcerer"/>](https://sourcerer.io/madhav2108)|[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100%"/>](https://www.instagram.com/madhav_narayan21/)|[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="100%"/>](https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/)
 :-----------------:|:--------------------:|:-------------:
-    
----
-### TIME FOR STATS :
----
-![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav2108&show_icons=true&theme=radical)
-
+ 
 ---
 ## __THANKYOU__  
 
