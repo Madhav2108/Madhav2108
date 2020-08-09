@@ -17,6 +17,10 @@
 ####  ```ANGULAR```|  ```NODEJS```|```MONGODB ```|  ```basic RUBY ```
 ####  ```DART ```|  ```FLUTTER```|``` ANDROID STUDIO ```|  ```MYSQL ```
 
+---
+### TIME FOR STATS :
+
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=radical)]
 
 ---
 ### :man_technologist: Contact Me On:
