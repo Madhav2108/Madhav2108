@@ -1,14 +1,14 @@
-### _Hi there_ 👋
+### _ℌ𝔦 𝔱𝔥𝔢𝔯𝔢_ 👋
 ## 𝓘 𝓪𝓶 __𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷__
 ---
-###  :octocat: I’m currently _working_ on :
-#### __Web Development | Python  | MERN Stack__
+###  :octocat: 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 _𝓌𝑜𝓇𝓀𝒾𝓃𝑔_ 𝑜𝓃 :
+#### __𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 | 𝓟𝔂𝓽𝓱𝓸𝓷  | 𝓜𝓔𝓡𝓝 𝓢𝓽𝓪𝓬𝓴__
 ---
-###  :electron: I’m currently _learning_ :
-#### __Nodejs | DS | GUI-Python__
+###  :electron: 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 _𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔_ :
+#### __𝓝𝓸𝓭𝓮𝓳𝓼 | 𝓓𝓢 | 𝓖𝓤𝓘-𝓟𝔂𝓽𝓱𝓸𝓷__
 ---
-### 🤔 I’m looking to _develop_ a :
-#### __Portfolio |  Minigames With Python__
+### 🤔 𝐼’𝓂 𝓁𝑜𝑜𝓀𝒾𝓃𝑔 𝓉𝑜 _𝒹𝑒𝓋𝑒𝓁𝑜𝓅_ 𝒶 :
+#### __𝓒𝓢𝓢 𝓪𝓷𝓲𝓶𝓪𝓽𝓲𝓸𝓷 |  𝓜𝓲𝓷𝓲𝓰𝓪𝓶𝓮𝓼 𝓦𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷__
 ---
 ### 📚	Try My Hand In :
 
