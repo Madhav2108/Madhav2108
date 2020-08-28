@@ -30,6 +30,7 @@
  
 ---
 # [Quick SHOT](https://madhav2108.github.io/Project-Slider/)
+---
 
 ## __THANKYOU__  
 
