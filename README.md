@@ -30,6 +30,8 @@
  
 ---
 # [Quick SHOT](https://madhav2108.github.io/Project-Slider/)
+
+## Cursor Animatin (repo to show your css and js Skills )--->[Checkout and be a part of it](https://github.com/Madhav2108/Cursor-Animation)
 ---
 
 ## __THANKYOU__  
