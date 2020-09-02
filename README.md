@@ -29,9 +29,9 @@
 :-----------------:|:--------------------:|:-------------:
  
 ---
-## [Quick View](https://madhav2108.github.io/Project-Slider/)
-## Cursor Animation(repo to show your css and js Skills )->[Checkout and be a part of it](https://github.com/Madhav2108/Cursor-Animation)
-## Want to build a gaming pc->[THEN CHECK OUT THE BUILD LIST](https://github.com/Madhav2108/GAMING-PC)
+### [Quick View](https://madhav2108.github.io/Project-Slider/)
+### Cursor Animation->[Checkout and be a part of it](https://github.com/Madhav2108/Cursor-Animation)
+### Want to build a gaming pc->[BUILD LIST](https://github.com/Madhav2108/GAMING-PC)
 ---
 
 ## __THANK YOU__  
