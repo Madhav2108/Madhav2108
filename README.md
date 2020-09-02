@@ -22,7 +22,6 @@
 
 ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=dark)
 
-<p> <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav2108&layout=compact&theme=dark" />
 
 ---
 #### :man_technologist: Contact Me On:
