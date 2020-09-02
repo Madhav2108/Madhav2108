@@ -1,4 +1,4 @@
-### _ℌ𝔦 𝔱𝔥𝔢𝔯𝔢_ 👋
+### _ℌ𝔦 𝔱𝔥𝔢𝔯𝔢_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am __𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷__
 ---
 ###  :octocat: I'm Currently _working_ on:
@@ -23,10 +23,23 @@
 ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=dark)
 
 ---
-### :man_technologist: Contact Me On:
+#### :man_technologist: Contact Me On:
 
-[<img src="https://sourcerer.io/icons/logo-sharing.svg" width="100%" alt="Sourcerer"/>](https://sourcerer.io/madhav2108)|[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="100%"/>](https://www.instagram.com/madhav_narayan21/)|[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="100%"/>](https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/)
-:-----------------:|:--------------------:|:-------------:
+<a href="https://sourcerer.io/madhav2108/">
+  <img align="left" alt="Sparsh's Sourcerer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
+</a>
+<a href="www.instagram.com/madhav_narayan21/">
+  <img align="left" alt="Sparsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.gg/H2so4Maddy#5677">
+  <img align="left" alt="Sparsh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/madhav_2108">
+  <img align="left" alt="Sparsh Garg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/madhav-narayan-khullar-2290641b2/">
+  <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
  
 ---
 ### [Quick View](https://madhav2108.github.io/Project-Slider/)
