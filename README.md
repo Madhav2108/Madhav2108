@@ -2,13 +2,13 @@
 ## I am __𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷__
 ---
 ###  :octocat: I'm Currently _working_ on:
-#### __Web Development | Python  | MERN Stack__
+#### __Web Development | Python  | Django__
 ---
 ###  :electron: I'm Currently _learning_ :
-#### __Nodejs | DS | (ML/AI)PYTHON__
+#### __MongoDB | DS | (ML/AI)PYTHON__
 ---
 ### 🤔  I'm looking to _Develop_ a:
-#### __CSS animation |  ML BASED PYTHON PROJECT__
+#### __React Website |  ML BASED PYTHON PROJECT__
 ---
 ### 📚	Try My Hand In :
 
