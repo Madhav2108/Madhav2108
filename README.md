@@ -14,9 +14,13 @@
 
 ---
 ###  :octocat: I'm Currently _working_ on:
-<br>
-<details><summary><span><strong>:scroll: React with redux </strong></span> </summary></details>
-<details><summary><span><strong>:scroll: Machine Learning </strong></span> </summary></details>
+<details><summary><span><strong>:scroll: Mern Stack </strong></span> </summary>
+  <strong>:page_with_curl: Modern Portfolio</strong><br>
+</details>
+<details><summary><span><strong>:scroll: Machine Learning </strong></span> </summary>
+  <strong>:page_with_curl: Scikit-learn</strong><br>
+  <strong>:page_with_curl: Data Engineering </strong>
+</details>
 
 ---
 ###  :electron: I'm Currently _learning_ :
