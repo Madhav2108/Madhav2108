@@ -14,7 +14,10 @@
 
 ---
 ###  :octocat: I'm Currently _working_ on:
-#### __Web Development | Python  | Django__
+<br>
+<details><summary><span><strong>:scroll: React with redux </strong></span> </summary></details>
+<details><summary><span><strong>:scroll: Machine Learning </strong></span> </summary></details>
+
 ---
 ###  :electron: I'm Currently _learning_ :
 #### __MongoDB | DS | (ML/AI)PYTHON__
