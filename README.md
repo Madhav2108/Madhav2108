@@ -17,11 +17,11 @@
 ---
 ###  :octocat: I'm Currently _working_ on:
 <details><summary><span><strong>:file_folder:   Mern Stack </strong></span> </summary>
-  <strong>:file_folder: Modern Portfolio</strong><br>
+  :computer: <strong>:file_folder: Modern Portfolio</strong><br>
 </details>
 <details><summary><span><strong>:file_folder: Machine Learning </strong></span> </summary>
-  <strong>:file_folder: Scikit-learn</strong><br>
-  <strong>:file_folder: Data Engineering </strong>
+  :computer: <strong>:file_folder: Scikit-learn</strong><br>
+  :computer: <strong>:file_folder: Data Engineering </strong>
 </details>
 
 ---
