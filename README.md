@@ -7,7 +7,7 @@
   <h4>:beginner: 3 rd year Student </h3>
   <h4>:beginner: CSE </h4>
   <h4>:beginner: Python & ML</h4>
-  <h4>:clock3: Night Coder :clock330:</h4>
+  <h4>:clock11: Night Coder :clock630:</h4>
   <h4>:office: Chitkara UniverSity</h4>
 </details>
 
