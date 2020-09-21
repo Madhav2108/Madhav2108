@@ -1,8 +1,10 @@
+<h1>ℌ𝔦 𝔱𝔥𝔢𝔯𝔢   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
+  <p> <h2>I am <b> 𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷</b></h2></p>
+
 <details> 
   
   <summary> :scroll: :mortar_board:
-  <h1>ℌ𝔦 𝔱𝔥𝔢𝔯𝔢   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h1>
-  <p> <h2>I am <b> 𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷</b></h2></p></summary>
+  </summary>
   
   <h4>:beginner: 3 rd year Student </h3>
   <h4>:beginner: CSE </h4>
