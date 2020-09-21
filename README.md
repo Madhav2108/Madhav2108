@@ -1,18 +1,14 @@
-### 
-
-
 <details> 
   
-  <summary>  <strong>ℌ𝔦 𝔱𝔥𝔢𝔯𝔢</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <p> <h2>I am <b>𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷</b></h2></p></summary>
+  <summary> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <h1>ℌ𝔦 𝔱𝔥𝔢𝔯𝔢</strong></h1>
+  <p> <h2>I am <b> 𝓜𝓪𝓭𝓱𝓪𝓿 𝓝𝓪𝓻𝓪𝔂𝓪𝓷</b></h2></p></summary>
   
   <h4>:beginner: 3 rd year Student </h3>
   <h4>:beginner: CSE </h4>
   <h4>:beginner: Python & ML</h4>
   <h4>:clock3: Night Coder :clock330:</h4>
   <h4>:office: Chitkara UniverSity</h4>
-  
-
 </details>
 
 
