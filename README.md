@@ -22,7 +22,7 @@
 ---
 ### TIME FOR STATS :
 
-![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=chartreuse-dark)
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=chartreuse-dark)](https://sourcerer.io/madhav2108)
 
 
 ---
