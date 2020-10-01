@@ -49,7 +49,9 @@
 .
  
 ---
-### [Quick View](https://madhav2108.github.io/Project-Slider/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Hotel-Template&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### [Quick View](https://madhav2108.github.io/Project-Slider/)
 ### Cursor Animation->[Checkout and be a part of it](https://github.com/Madhav2108/Cursor-Animation)
 ### Want to build a gaming pc->[BUILD LIST](https://github.com/Madhav2108/GAMING-PC)
 ---
