@@ -14,12 +14,9 @@
 ### :computer: looking to _Develop_ :
 #### __Credit Card Fraud Detection |  ML BASED PYTHON PROJECT__
 ---
-### 📚	Try My Hand In :
+### 📚	Comfortable With  :
 
-#### ``` C ```| ```C++```| ```JAVA```|```PYTHON```| ```basic C#```
-#### ```HTML```|```JS ```|```CSS ```|```JQUERY ```|``` BS4 ```
-####  ```ANGULAR```|  ```NODEJS```|```MONGODB ```|  ```basic RUBY ```
-####  ```DART ```|  ```FLUTTER```|``` ANDROID STUDIO ```|  ```MYSQL ```
+#### ```PYTHON```| ```Scikit-learn```| ```PyTorch```| ```Jupyter-notebook```
 
 ---
 ### TIME FOR STATS :
