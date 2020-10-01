@@ -50,9 +50,10 @@
  
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Hotel-Template&theme=chartreuse-dark)](https://github.com/Madhav2108/Hotel-Template)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=chartreuse-dark)](https://github.com/Madhav2108/GAMING-PC)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=chartreuse-dark)](https://github.com/Madhav2108/Cursor-Animation)
 
-### Want to build a gaming pc->[BUILD LIST](https://github.com/Madhav2108/GAMING-PC)
 ---
 
 ## __THANK YOU__  
