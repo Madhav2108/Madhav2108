@@ -50,9 +50,8 @@
  
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Hotel-Template&theme=chartreuse-dark)](https://github.com/Madhav2108/Hotel-Template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=chartreuse-dark)](https://github.com/Madhav2108/Cursor-Animation)
 
-#### [Quick View](https://madhav2108.github.io/Project-Slider/)
-### Cursor Animation->[Checkout and be a part of it](https://github.com/Madhav2108/Cursor-Animation)
 ### Want to build a gaming pc->[BUILD LIST](https://github.com/Madhav2108/GAMING-PC)
 ---
 
