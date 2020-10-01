@@ -11,8 +11,8 @@
 ###  📊  Currently _learning_ :
 #### __ML Algo | Software Designing  | (ML/AI)PYTHON__
 ---
-### 🤔  I'm looking to _Develop_ a:
-#### __React Website |  ML BASED PYTHON PROJECT__
+### :computer: looking to _Develop_ :
+#### __Credit Card Fraud Detection |  ML BASED PYTHON PROJECT__
 ---
 ### 📚	Try My Hand In :
 
