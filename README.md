@@ -3,12 +3,13 @@
 
 ---
 
-###  :octocat: I'm Currently _working_ on:
+###  📈 Currently _working_ on:
+#### __Panda Data Clean | (ML)PYTHON__
 
 
 ---
-###  :electron: I'm Currently _learning_ :
-#### __MongoDB | DS | (ML/AI)PYTHON__
+###  📊  Currently _learning_ :
+#### __ML Algo | Software Designing  | (ML/AI)PYTHON__
 ---
 ### 🤔  I'm looking to _Develop_ a:
 #### __React Website |  ML BASED PYTHON PROJECT__
