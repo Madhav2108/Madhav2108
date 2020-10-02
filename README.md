@@ -49,7 +49,7 @@
 .
  
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Hotel-Template&theme=chartreuse-dark)](https://github.com/Madhav2108/Hotel-Template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=chartreuse-dark)](https://github.com/Madhav2108/Hotel-Template)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=chartreuse-dark)](https://github.com/Madhav2108/GAMING-PC)
 
