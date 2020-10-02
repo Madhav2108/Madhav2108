@@ -59,3 +59,5 @@
 
 ## __THANK YOU__  
 
+### For My Fun Info JOIN My Discord Server [Join](https://discord.gg/khJeKb8)
+
