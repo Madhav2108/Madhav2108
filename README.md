@@ -22,7 +22,7 @@
 ---
 ### TIME FOR STATS :
 
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=chartreuse-dark)](https://sourcerer.io/madhav2108)
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=graywhite)](https://sourcerer.io/madhav2108)
 
 
 ---
@@ -49,11 +49,11 @@
 .
  
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=chartreuse-dark)](https://github.com/Madhav2108/Hotel-Template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=graywhite)](https://github.com/Madhav2108/Hotel-Template)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=chartreuse-dark)](https://github.com/Madhav2108/GAMING-PC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=graywhite)](https://github.com/Madhav2108/GAMING-PC)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=chartreuse-dark)](https://github.com/Madhav2108/Cursor-Animation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=graywhite)](https://github.com/Madhav2108/Cursor-Animation)
 
 ---
 
