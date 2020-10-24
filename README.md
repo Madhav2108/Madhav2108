@@ -4,7 +4,7 @@
 ---
 
 ###  📈 Currently _working_ on:
-#### __Panda Data Clean | (ML Algo)PYTHON__
+#### __Panda Numpy | (ML Algo)PYTHON__
 
 
 ---
