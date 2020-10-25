@@ -9,7 +9,7 @@
 
 ---
 ###  📊  Currently _learning_ :
-#### __ML Algo | Software Designing  | (ML/AI)PYTHON__
+#### __ML Algo | Data Cleaning  | (ML/AI)PYTHON__
 ---
 ### :computer: looking to _Develop_ :
 #### __Credit Card Fraud Detection |  ML BASED PYTHON PROJECT__
