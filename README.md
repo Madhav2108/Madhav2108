@@ -58,5 +58,3 @@
 
 ## __THANK  YOU__  
 
-### For More [JOIN](https://discord.gg/khJeKb8) My Discord Server 
-
