@@ -16,7 +16,7 @@
 ---
 ### 📚	Comfortable With  :
 
-#### ```PYTHON```| ```Scikit-learn```| ```PyTorch```| ```Jupyter-notebook```
+#### ```PYTHON```| ```Scikit-learn```| ```PyTorch```| ```Jupyter notebook```
 #### ```Pandas```| ```NumPy```| ```Matplotlib```| ```NPL```
 
 ---
