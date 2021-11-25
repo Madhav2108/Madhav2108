@@ -4,19 +4,12 @@
 ---
 
 ###  📈 Currently _working_ on:
-#### __Panda Numpy | (ML Algo)PYTHON__
+#### DSA-JAVA| Electricity Billing System
 
-
----
-###  📊  Currently _learning_ :
-#### __ML Algo | Data Cleaning  | (ML/AI)PYTHON__
----
-### :computer: looking to _Develop_ :
-#### __Credit Card Fraud Detection |  ML BASED PYTHON PROJECT__
 ---
 ### 📚	Comfortable With  :
 
-#### ```PYTHON```| ```Scikit-learn```| ```PyTorch```| ```Jupyter notebook```
+#### ```JAVA```| ```DBMS```| ```DSA```| ```FULL-Stack```
 #### ```Pandas```| ```NumPy```| ```Matplotlib```| ```NPL```
 
 ---
@@ -48,12 +41,6 @@
  </a>
 .
  
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=dark)](https://github.com/Madhav2108/Hotel-Template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=dark)](https://github.com/Madhav2108/GAMING-PC)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=dark)](https://github.com/Madhav2108/Cursor-Animation)
-
 ---
 
 ## __THANK  YOU__  
