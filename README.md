@@ -3,19 +3,14 @@
 
 ---
 
-###  📈 Currently _working_ on:
-#### DSA-JAVA| Electricity Billing System
+###  📈 Currently _working_ in:
+#### Extendtech Private Lim.
 
 ---
 ### 📚	Comfortable With  :
 
 #### ```JAVA```| ```DBMS```| ```DSA```| ```FULL-Stack```
-#### ```Pandas```| ```NumPy```| ```Matplotlib```| ```NPL```
-
----
-### TIME FOR STATS :
-
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=Madhav2108&show_icons=true&theme=dark)](https://sourcerer.io/madhav2108)
+#### ```Javascript```| ```node```| ```Netsuite```
 
 
 ---
